@@ -1,0 +1,20 @@
+.odd {
+  background-color: pink;
+  font-family: Verdana, DeJavu Sans, sans-serif;
+
+}
+
+#big-id {
+  color: blue;
+  font-size: 36px;
+}
+
+.odd.bigger {
+  font-size: 24px;
+}
+
+#big-id-smaller {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-style: bold;
+}
